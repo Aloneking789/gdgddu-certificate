@@ -5,9 +5,9 @@ function formatDate(date) {
     'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
   ];
   
-  const day = 10;
+  const day = 11;
   const month = "Nov";
-  const year = 2023;
+  const year = 2024;
 
   return `${month} ${day}, ${year}`;
  /* const day = date.getDate();
